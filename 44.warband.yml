@@ -1,0 +1,51 @@
+warband: The Revolting Dwarfs (Dwarf Rangers)
+active: true
+campaign: 11
+objective: The Lure of Fortune
+alignment: Lawful/Neutral
+achievments: |
+    Land Train
+    Silk Trader
+gc: 78
+shards: 2
+equipment: Lucky Charm
+
+# Max 12 units
+# Racial maximums (Dwarfs):
+# M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
+heros:
+    - hero: Ragnar (Runesmith) [32XP]
+      stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Axe, Axe
+      armour: Helmet, Light Armour, Lucky Charm
+      rules: Leader, Blackblood, Expert Axeman, Tactician
+      warbandaddition: 5
+      # Skill wishlist:
+      # * Two-Weapon Master (ignore -2 to hit for offhand)
+      # * Money Maker (D6+2 GC after battle)
+
+    - hero: Floki (Apprentice Runesmith) [8XP]
+      skilllists: Combat, Academic, Strength, Special
+      stats: M3, WS3, BS2, S3, T4, W1, I2, A1, Ld9, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet, Heavy Armour, Lucky Charm
+      rules: Extra Set Of Hands, Skilled Driver, Haggle
+
+    - hero: Bjørn (Troll Slayer) [15XP]
+      skilllists: Combat, Academic, Strength, Special
+      stats: M3, WS5, BS3, S3, T4, W1, I2, A1, Ld10, Sv-
+      weapons: Dwarf Axe, Dagger
+      armour: Lucky Charm
+      rules: Deathwish, Fearsome
+
+henchmen:
+    - group: Beard Mob (4 Beardling) [13XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+notes: |
+    Inscribe rune before battle
+    Blackblood (Ragnar) = Anyone in base 
+
