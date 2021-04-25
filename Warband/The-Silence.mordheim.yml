@@ -1,9 +1,9 @@
 
-warband: Silence (Dwarf Rangers)
+warband: 1 (Dwarf Rangers)
 active: true
 campaign: 11
-objective: The Lure of Fortune
-alignment: Lawful/Neutral
+objective: The Lure of
+alignment: Lawful
 achievments: |
     Land Train
     Silk Trader
